@@ -1,0 +1,15 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "sourceType": "module"
+  },
+  "rules": {
+    "quotes": ["warn", "double"],
+    "semi": ["warn", "never"],
+    "indent": ["warn", 2],
+    "no-multi-spaces": ["warn"],
+    "no-console": "off",
+    "object-curly-spacing": ["warn", "always"],
+    "react-hooks/exhaustive-deps": "off"
+  }
+}
